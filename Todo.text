@@ -1,0 +1,24 @@
+1. Project Structure
+2. Controllers File Function
+3. API End Point Define
+4. Payment System Utility Functions
+5. Create Model Files
+    -categoriesModel
+    -brandsModel
+    -productsModel
+    -slidersModel
+    -reviewsModel
+    -cartsModel
+    -detailsModel
+    -wishesModel
+    -usersModel
+    -profilesModel
+    -invoicesModel
+    -invoiceProductsModel
+
+6. Understanding the payment methods flow
+
+
+
+
+
